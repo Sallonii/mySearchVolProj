@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.keyword-style {
+    color: #ff0000;
+    font-weight: 800;
+}
+
+.nav-style {
+    background-image: linear-gradient(to right, #f2f2f2, #ffff99, #66ffff, #99ff99, #ff6666);
+    ;
+}
+
+.nav-links {
+    color: red;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.margin {
+    margin-left: 50%;
+}
+
+.bg-container {
+    background-image: url("https://res.cloudinary.com/dwj8ezxgi/image/upload/v1691644892/pngtree-financial-technology-data-graph-image_908921_dqypjt.jpg");
+    height: 150vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.search-input {
+    font-size: 18px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d5cdcd;
+    border-radius: 20px;
+    padding: 50px;
+    width: 50%;
+    margin: 20px;
+}
+
+.para-style {
+    color: white;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.keyword-heading {
+    padding-top: 30px;
+    padding-left: 20px;
+    color: white;
+}
+
+.explore-heading-style {
+    color: white;
+    font-family: Roboto;
+    padding: 20px;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.world-span {
+    color: #ff0000;
+    font-family: Lobster;
+}
+
+.result-style {
+    background-image: url(https://res.cloudinary.com/dwj8ezxgi/image/upload/v1691647933/vector-bright-background-yellow-13124676_hoxh7y.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: rgb(136, 136, 136);
+    font-size: 50px;
+    font-family: Outfit, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    text-align: left;
+    letter-spacing: 0px;
+    white-space: normal;
+    line-height: 1;
+    margin: 0px;
+    padding: 0px 0px 10px;
+}
+
+.graph-style {
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.youtube-video-style {
+    height: 20vh;
+    width: 40vh;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.card-cont {
+    background-color: white;
+    border-radius: 24px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.limit-style {
+    font-size: 20px;
+    color: red;
+}
